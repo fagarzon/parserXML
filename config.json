@@ -1,0 +1,40 @@
+{
+    "PRODUCCION": {
+                    "USER": "root"
+                    , "PASS":"wapisima"
+                    , "HOST":"localhost"
+                    , "DATABASE":"pruebas"
+                    , "RUTA_XML": "C:/Users/francisco.rodriguez/Desktop/borrar/blog/basura/DATASOURCE/"
+                    , "RUTA_DOWNLOAD": "C:/Users/francisco.rodriguez/Desktop/borrar/blog/basura/DOWNLOAD/"
+                    , "URL_PEDIDOS_DOWNLOAD": "http://datamanagement.es/Recursos/pedidos.rar"
+                }
+                
+    , "DESARROLLO": {
+                    "USER": "root"
+                    , "PASS":"wapisima"
+                    , "HOST":"localhost"
+                    , "DATABASE":"pruebas"
+                    , "RUTA_XML": "C:/Users/francisco.rodriguez/Desktop/borrar/blog/basura/DATASOURCE/"
+                    , "RUTA_DOWNLOAD": "C:/Users/francisco.rodriguez/Desktop/borrar/blog/basura/DOWNLOAD/"
+                    , "URL_PEDIDOS_DOWNLOAD": "http://datamanagement.es/Recursos/pedidos.rar"
+                }
+    , "LOCAL": {
+                    "USER": "root"
+                    , "PASS":"MySql"
+                    , "HOST":"localhost"
+                    , "DATABASE":"bbdd"
+                    , "RUTA_XML": "C:/Users/Felix.Garzon/Documents/Ruta_Xml/"
+                    , "RUTA_DOWNLOAD": "C:/Users/Felix.Garzon/Documents/Ruta_Descarga/"
+                    , "URL_PEDIDOS_DOWNLOAD": "http://datamanagement.es/Recursos/pedidos.rar"
+                }
+}
+
+
+
+
+
+
+
+
+
+
